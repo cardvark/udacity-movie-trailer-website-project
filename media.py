@@ -5,6 +5,7 @@ class Movie():
     # '__init__' always takes a 'self' argument
     # 'self' refers to the instance of the class that has been initialized.
     # Added default 'none' values to instance variables.
+    
         self.title = movie_title
         self.storyline = movie_storyline
         self.poster_image_url = poster_image

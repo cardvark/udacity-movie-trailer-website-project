@@ -2,6 +2,7 @@ import media
 import fresh_tomatoes
 # Note - good practice to create Class in separate file, import file.
 
+
 # Creating a series of movie instances using the Movie class.
 toy_story = media.Movie(
     'Toy Story', 
