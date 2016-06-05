@@ -2,6 +2,7 @@ import media
 import fresh_tomatoes
 # Note - good practice to create Class in separate file, import file.
 
+# Creating a series of movie instances using the Movie class.
 toy_story = media.Movie(
     'Toy Story', 
     'A story of a boy and his toys come to life',
@@ -47,6 +48,7 @@ hunger_games = media.Movie(
 # print toy_story.storyline
 # avatar.show_trailer()
 
+# create List of movie instances to feed into open_movies_page method.
 moviesList = [
     toy_story,
     avatar,
