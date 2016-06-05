@@ -8,7 +8,7 @@ Basic introduction to OOP in Python. Create a website with movie images and trai
 ## What's included?
 * Single folder of three files:
   * entertainment_center.py
-  * fresh_tomatoes.py
+  * fresh_tomatoes.py (provided by class [here](https://github.com/adarsh0806/ud036_StarterCode/blob/master/fresh_tomatoes.py).)
   * media.py
 
 ## Test steps:
